@@ -9,9 +9,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-<path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"></path><path fill="#FF6D00" d="M24 8L24 39.9 35.2 36.7 37.7 8z"></path><path fill="#FFF" d="M24,25v-4h8.6l-0.7,11.5L24,35.1v-4.2l4.1-1.4l0.3-4.5H24z M32.9,17l0.3-4H24v4H32.9z"></path><path fill="#EEE" d="M24,30.9v4.2l-7.9-2.6L15.7,27h4l0.2,2.5L24,30.9z M19.1,17H24v-4h-9.1l0.7,12H24v-4h-4.6L19.1,17z"></path>
-</svg> </a> </p>
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> 
+    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="40" height="40" viewBox="0 0 48 48">
+            <path fill="#0288D1" d="M42,37c0,2.762-2.238,5-5,5H11c-2.761,0-5-2.238-5-5V11c0-2.762,2.239-5,5-5h26c2.762,0,5,2.238,5,5V37z"></path>
+            <path fill="#FFF" d="M12 19H17V36H12zM14.485 17h-.028C12.965 17 12 15.888 12 14.499 12 13.08 12.995 12 14.514 12c1.521 0 2.458 1.08 2.486 2.499C17 15.887 16.035 17 14.485 17zM36 36h-5v-9.099c0-2.198-1.225-3.698-3.192-3.698-1.501 0-2.313 1.012-2.707 1.99C24.957 25.543 25 26.511 25 27v9h-5V19h5v2.616C25.721 20.5 26.85 19 29.738 19c3.578 0 6.261 2.25 6.261 7.274L36 36 36 36z"></path>
+    </svg> </a> </p>
 <!-- <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/11935/css" alt="css" width="40" height="40"/> </a> </p>
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/tGvHBPJaKqEd/javascript" alt="javascript" width="40" height="40"/> </a> </p>
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://icons8.com/icon/qV-JzWYl9dzP/django" alt="django" width="40" height="40"/> </a> </p>
